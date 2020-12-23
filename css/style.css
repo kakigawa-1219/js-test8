@@ -560,12 +560,12 @@ nav ul li a:hover {
     right: 10px;
     }
     
-    .login_modal li {
+    .login_modal li,.login_modal1 li {
         list-style: none;
         margin-top: 40px;   
     }
 
-    .login_modal input {
+    .login_modal input,.login_modal1 input {
      font-size: 18pt;        
     }
 

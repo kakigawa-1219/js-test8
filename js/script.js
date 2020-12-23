@@ -21,7 +21,7 @@ $('.accordion_header').click(function(){
 
 
 
-
+//課題③
 $(function(){
 $('.js-modal-open').on('click',function(){
     $('.js-modal').fadeIn();
@@ -119,11 +119,11 @@ $(function(){
 
 $(function(){
   $('.js-modal-open1').on('click',function(){
-      $('.js-modal').fadeIn();
+      $('.js-modal1').fadeIn();
       return false;
   });
-  $('.js-modal-close').on('click',function(){
-      $('.js-modal').fadeOut();
+  $('.js-modal-close1').on('click',function(){
+      $('.js-modal1').fadeOut();
       return false;
   });
   });
